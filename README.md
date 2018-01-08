@@ -31,9 +31,9 @@ Biz bu deneyimizde ışık enerjisini dönüştürerek 3 tane farklı malzeme ya
 İlk olarak bir kış gününde şişeyi mercek olarak kullanarak 3 tane farklı çeşit maddeyi yakmaya çalıştık.İlk şişeyi güneşe doğru yönelterek ve ışığı odaklayarak kalın bir kartonu yakmaya çalıştık.Ama kış günü olduğu için sonuç vermedi.İkinci olarak şişeyi güneşe doğru yönelterek ve ışığı odaklayarak ince  bir kartonu yakmaya çalıştık.Ama kış günü olduğu için yine sonuç vermedi.üçüncü olarak şişeyi güneşe doğru yönelterek ve ışığı odaklayarak plastik bir dosyayı yakmaya çalıştık.Ve kış günü olduğu için yine sonuç vermedi.Son olarak bizi bir merak duygusu kapladı ve bu işi ince kenarlı mercekle yapmayı denedik.Bu kış günü olmasına rağmen 3 maddeyide tutuşturmayı ve eritmeyi başardı.
 
 # Bulgular (Results)
-Demek ki kış gününde böyle bir deney yapmanın başarısızlıkla sonuçlanacağını öğrenmiş olduk.Ayrıca güneş enerjisinin az olduğu günlerde şişeyi mercek olarak kullanmanın sonuç vermeyeceğini öğrendik.Ama mercekle bunun işe yarayacığınıda öğrenmiş olduk.
+Demek ki kış gününde böyle bir deney yapmanın başarısızlıkla sonuçlanacağını öğrenmiş olduk.Ayrıca güneş enerjisinin az olduğu günlerde şişeyi mercek olarak kullanmanın sonuç vermeyeceğini öğrendik.Ama mercekle bunun işe yarayacağını da öğrenmiş olduk.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
-Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
+Burasını doldurmaya gerek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
 
