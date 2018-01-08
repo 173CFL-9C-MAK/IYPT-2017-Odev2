@@ -22,65 +22,16 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+# Özet (Abstrac)
+''Bir sıvı dolu bir şişe bir lens olarak kullanılabilir. Muhtemelen böyle bir şişe, güneşli bir günde masanın üzerinde bırakılırsa tehlikelidir. Böyle bir 'lens' kullanarak bir yüzeyi kavurabilir mi?'' işte. Bu bizim sorumuz. Bu soruda anlatılmak ve araştırılmak istenen şişeyi lens olarak kullanıp kağıdı veya masayı yakabilir veya kavurabilir miyiz? Şişeyi lens olarak kullandığımızda ışığı bir noktaya toplayabiliriz. Bunun sonucunda güneş ışınları tek noktada toplandığı için birleşen ışınların oluşturduğu ısı bir kağıdı kolayca yakabilir. Ayrıca bu tür ısılarla tutuşması daha zor olan masa gibi materyalleri kavurabilir ama bu ısının enerjisine bağlıdır. Buradan kastımız güneşli havalarda ortaya çıkan ısı enerjisiyle bulutlu havalarda ortaya çıkan ısı enerjisi arasındaki fark.Aslında bu konuya örnek olarak orman yangınlarını verebiliriz. Orman yangınlarının nedenlerinden biri de cam şişe atıklarıdır. Bu atıkların mercek işlevi görerek yaprak gibi kolayca tutuşabilecek maddeleri tutuşturmasıdır. Bu sorunu araştırırken kullanacağımız yöntem içi su dolu bir şişeyi mercek olarak kullanıp makalelerden bulduğumuz ışınıngeliş açısı formullerinden de yararlanarak kağıdı nasıl tutuşturduğunu ortaya çıkarmaya çalışacağız. Bunun için deneyler yapacağız. Deneylerin sonucunu gözlemlerimizle birleştirerek bir sonuca varacağız.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Biz bu deneyimizde ışık enerjisini dönüştürerek 3 tane farklı malzeme yakmaya çalıştık.Projemizin amacı buydu.Bunun için içi su dolu bir şişe kullandık ve sonuçlarını gözlemledik.
+
 # Materyal ve Yöntem (Experimental Setup)
-
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+İlk olarak bir kış gününde şişeyi mercek olarak kullanarak 3 tane farklı çeşit maddeyi yakmaya çalıştık.İlk şişeyi güneşe doğru yönelterek ve ışığı odaklayarak kalın bir kartonu yakmaya çalıştık.Ama kış günü olduğu için sonuç vermedi.İkinci olarak şişeyi güneşe doğru yönelterek ve ışığı odaklayarak ince  bir kartonu yakmaya çalıştık.Ama kış günü olduğu için yine sonuç vermedi.üçüncü olarak şişeyi güneşe doğru yönelterek ve ışığı odaklayarak plastik bir dosyayı yakmaya çalıştık.Ve kış günü olduğu için yine sonuç vermedi.Son olarak bizi bir merak duygusu kapladı ve bu işi ince kenarlı mercekle yapmayı denedik.Bu kış günü olmasına rağmen 3 maddeyide tutuşturmayı ve eritmeyi başardı.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
+Demek ki kış gününde böyle bir deney yapmanın başarısızlıkla sonuçlanacağını öğrenmiş olduk.Ayrıca güneş enerjisinin az olduğu günlerde şişeyi mercek olarak kullanmanın sonuç vermeyeceğini öğrendik.Ama mercekle bunun işe yarayacığınıda öğrenmiş olduk.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
